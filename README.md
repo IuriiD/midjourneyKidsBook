@@ -1,11 +1,11 @@
-# "Mom, Dad, may we have a pet?" - A children's book created using Midjourney and ChatGPT #
+# "Mom, Dad, may we have a pet?" - a children's book created using Midjourney and ChatGPT #
 
 Please see the [__Youtube video__](https://youtu.be/vMJM6GEqu_8) showing the whole process of creating a children's book using Midjourney and ChatGTP:
 - Idea generation options (including using ChatGPT)
 - Generating images in Midjourney and dialogs in ChatGPT
 - Combining everything in Photoshop and printing
 
-Please see the presentation (in the pdf format) used in the video.
+Please see the [presentation](MomDadWeWantAPet_06-06-23.pdf) (in the pdf format) used in the video.
 
 The resulting images:
 ![Title page](mom-dad-pet-title.jpg)
