@@ -17,3 +17,17 @@ The resulting images:
 ![Pages 11-12](mom-dad-pet_11-12.jpg)
 ![Pages 13-14](mom-dad-pet_13-14.jpg)
 ![Back](mom-dad-pet-back.jpg)
+
+Photos of the printed book etc:
+![Printed book - 1](mom-dad-pet-printed-1.jpg)
+![Printed book - 2](mom-dad-pet-printed-2.jpg)
+![Printed book - 3](mom-dad-pet-printed-3.jpg)
+![Printed book - 4](mom-dad-pet-printed-4.jpg)
+![Printed book - 5](mom-dad-pet-printed-5.jpg)
+![Printed book - 6](mom-dad-pet-printed-6.jpg)
+![Printed book - 7](mom-dad-pet-printed-7.jpg)
+![Printed book - 8](mom-dad-pet-printed-8.jpg)
+![Printed book - 9](mom-dad-pet-printed-9.jpg)
+![Printed book - 10](mom-dad-pet-printed-10.jpg)
+![Kids with the book](mom-dad-pet-printed-kids.jpg)
+![The pet ;)](mom-dad-pet-printed-dog.jpg)
